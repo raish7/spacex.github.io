@@ -1,0 +1,87 @@
+<style>
+				body
+				{
+					background-color: black;
+				}
+				.contain {
+			  position: relative;
+			  text-align: center;
+			  color: white;
+			}
+			.bottom-left {
+			  position: absolute;
+			  bottom: 28px;
+			  left: 16px;
+			}
+			.button5
+			{
+					  background-color: transparent; 
+					  color: white; 
+					  border: 2px solid white;
+					  border-radius: 0px;
+					  padding:10px;
+			}
+			.button5:hover
+			{
+				background-color: white;
+				color:black;
+			}
+
+			.contain1
+			{
+				position: relative;
+			  text-align: center;
+			  color: white;
+			}
+			.top-right {
+			  position: absolute;
+			  top: -200px;
+			  right: 16px;
+			}
+		.button2 {
+		  background-color: transparent; 
+		  color: black; 
+		  border: 2px solid black;
+		  border-radius: 0px;
+		  padding:10px;
+		
+		}
+		.button2:hover {
+		  background-color: white;
+		  color: black;
+		}
+		.bottom-right
+		{
+			
+		  position: absolute;
+		  bottom: 40px;
+		  right: 36px;
+		
+		}
+		.button3 {
+		  background-color: transparent; 
+		  color: black; 
+		  border: 2px solid black;
+		  border-radius: 0px;
+		  padding:10px;
+		
+		}
+		.button3:hover {
+		  background-color: black;
+		  color: white;
+		}
+		.button7 {
+		  background-color: transparent; 
+		  color: white; 
+		  border: 2px solid white;
+		  border-radius: 0px;
+		  padding:10px;
+		
+		}
+		.button7:hover
+		{
+			background-color: white;
+			color:black;
+		}
+
+	</style>
